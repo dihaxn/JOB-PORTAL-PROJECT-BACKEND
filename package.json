@@ -1,0 +1,27 @@
+{
+  "name": "job-portal-project-backend",
+  "version": "1.0.0",
+  "description": "\"# JOB-PORTAL-PROJECT-BACKEND\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dihaxn/JOB-PORTAL-PROJECT-BACKEND.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dihaxn/JOB-PORTAL-PROJECT-BACKEND/issues"
+  },
+  "homepage": "https://github.com/dihaxn/JOB-PORTAL-PROJECT-BACKEND#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
